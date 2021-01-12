@@ -1,7 +1,7 @@
 # Travel
 This is the parent repository of travel website. It has all the development code.
 
-Website can be viewed on the following link: https://vakumar-travel.netlify.app/ 
+
 
 #### Note: This is test a website. Few links and clickable items are just for display and might now work as expected. This is done purposely to focus only on the key areas that I wanted to understand.
 
